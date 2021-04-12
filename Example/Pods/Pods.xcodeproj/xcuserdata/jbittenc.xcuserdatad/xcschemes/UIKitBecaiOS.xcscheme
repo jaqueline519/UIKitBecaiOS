@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5B83577E893867BA7B64F0EB739B5B6F"
-               BuildableName = "UIKitBecaiOS"
+               BuildableName = "UIKitBecaiOS.framework"
                BlueprintName = "UIKitBecaiOS"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
